@@ -1,5 +1,9 @@
 # 🧝 Tradutor Português ↔ Síndarin
 
+> *"Elen síla lúmenn' omentielvo"* — Uma estrela brilha na hora do nosso encontro.  
+> — J. R. R. Tolkien, *O Senhor dos Anéis*
+
+
 Tradutor experimental bidirecional entre **português brasileiro** e **síndarin**, a língua dos elfos de J. R. R. Tolkien. Baseado em léxico estruturado e regras linguísticas básicas.
 
 ---
@@ -158,5 +162,3 @@ tradutor_sindarin/
 
 ---
 
-> *"Elen síla lúmenn' omentielvo"* — Uma estrela brilha na hora do nosso encontro.  
-> — J. R. R. Tolkien, *O Senhor dos Anéis*
