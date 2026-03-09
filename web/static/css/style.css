@@ -159,13 +159,13 @@ body {
   gap: 8px;
   font-family: var(--font-elvish);
   font-style: italic;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   color: var(--gold);
   text-shadow: 0 0 20px var(--gold-dim);
 }
 
 .tagline-pt {
-  font-size: 0.85rem;
+  font-size: 1.1rem;
   font-style: normal;
   color: var(--text-muted);
   letter-spacing: 0.05em;
@@ -631,7 +631,7 @@ body {
 
   .panel--output { border-top: none; }
 
-  .hero-tagline { font-size: 1.1rem; }
+  .hero-tagline { font-size: 1.8rem; }
 
   .logo-title { font-size: 0.9rem; }
 
