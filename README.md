@@ -1,7 +1,9 @@
 # 🧝 Tradutor Português ↔ Síndarin
 
-> *"Elen síla lúmenn' omentielvo"* — Uma estrela brilha na hora do nosso encontro.  
-> — J. R. R. Tolkien, *O Senhor dos Anéis*
+> *"Pedo mellon a minno"* — Diga 'amigo' e entre.
+— J. R. R. Tolkien, *O Senhor dos Anéis*
+
+*The Fellowship of the Ring, capítulo “A Journey in the Dark.*
 
 
 Tradutor experimental bidirecional entre **português brasileiro** e **síndarin**, a língua dos elfos de J. R. R. Tolkien. Baseado em léxico estruturado e regras linguísticas básicas.
@@ -162,3 +164,5 @@ tradutor_sindarin/
 
 ---
 
+> *"Elen síla lúmenn' omentielvo"* — Uma estrela brilha na hora do nosso encontro.  
+> — J. R. R. Tolkien, *O Senhor dos Anéis*
