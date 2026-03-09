@@ -1,0 +1,2554 @@
+{
+  "Caras-Galadhon": {
+    "sindarin": "Caras Galadhon",
+    "classe": "nome-próprio"
+  },
+  "Gondor": {
+    "sindarin": "Gondor",
+    "classe": "nome-próprio"
+  },
+  "Mirkwood": {
+    "sindarin": "Eryn Lasgalen",
+    "classe": "nome-próprio"
+  },
+  "Mordor": {
+    "sindarin": "Mordor",
+    "classe": "nome-próprio"
+  },
+  "Rivendell": {
+    "sindarin": "Imladris",
+    "classe": "nome-próprio"
+  },
+  "Terra-Média": {
+    "sindarin": "ennor",
+    "classe": "nome-próprio"
+  },
+  "Valinor": {
+    "sindarin": "Valinor",
+    "classe": "nome-próprio"
+  },
+  "abaixo": {
+    "sindarin": "di",
+    "classe": "preposição"
+  },
+  "abençoado": {
+    "sindarin": "elenath",
+    "classe": "adjetivo"
+  },
+  "abertura": {
+    "sindarin": "imlad",
+    "classe": "substantivo"
+  },
+  "abismo": {
+    "sindarin": "iâ",
+    "classe": "substantivo"
+  },
+  "abrir": {
+    "sindarin": "edro",
+    "classe": "verbo"
+  },
+  "abóbada": {
+    "sindarin": "rond",
+    "classe": "substantivo"
+  },
+  "acampamento": {
+    "sindarin": "echad",
+    "classe": "substantivo"
+  },
+  "acima": {
+    "sindarin": "or",
+    "classe": "preposição"
+  },
+  "adeus": {
+    "sindarin": "navaer",
+    "classe": "interjeição"
+  },
+  "adorável": {
+    "sindarin": "Imloth Melui",
+    "classe": "nome-próprio"
+  },
+  "afiado": {
+    "sindarin": "aeg",
+    "classe": "substantivo"
+  },
+  "agora": {
+    "sindarin": "hí",
+    "classe": "advérbio"
+  },
+  "alegria": {
+    "sindarin": "gell",
+    "classe": "substantivo"
+  },
+  "ali": {
+    "sindarin": "ennas",
+    "classe": "advérbio"
+  },
+  "alma": {
+    "sindarin": "fêa",
+    "classe": "substantivo"
+  },
+  "alto": {
+    "sindarin": "halla",
+    "classe": "adjetivo"
+  },
+  "além": {
+    "sindarin": "emel",
+    "classe": "preposição"
+  },
+  "amanhecer": {
+    "sindarin": "ardhon",
+    "classe": "substantivo"
+  },
+  "amar": {
+    "sindarin": "mel",
+    "classe": "verbo"
+  },
+  "amigo": {
+    "sindarin": "mellon",
+    "classe": "substantivo"
+  },
+  "amigos": {
+    "sindarin": "mellyn",
+    "classe": "substantivo"
+  },
+  "amizade": {
+    "sindarin": "gwador",
+    "classe": "substantivo"
+  },
+  "amor": {
+    "sindarin": "meleth",
+    "classe": "substantivo"
+  },
+  "amplo": {
+    "sindarin": "Landroval",
+    "classe": "nome-próprio"
+  },
+  "ancião": {
+    "sindarin": "iarwain",
+    "classe": "substantivo"
+  },
+  "anel": {
+    "sindarin": "corma",
+    "classe": "substantivo"
+  },
+  "ano": {
+    "sindarin": "în",
+    "classe": "substantivo"
+  },
+  "antes": {
+    "sindarin": "anglennatha",
+    "classe": "advérbio"
+  },
+  "antigo": {
+    "sindarin": "iam",
+    "classe": "adjetivo"
+  },
+  "anão": {
+    "sindarin": "naug",
+    "classe": "substantivo"
+  },
+  "anéis": {
+    "sindarin": "cyrm",
+    "classe": "substantivo"
+  },
+  "anões": {
+    "sindarin": "noeg",
+    "classe": "substantivo"
+  },
+  "apenas": {
+    "sindarin": "er",
+    "classe": "advérbio"
+  },
+  "após": {
+    "sindarin": "ab",
+    "classe": "preposição"
+  },
+  "aquela": {
+    "sindarin": "han",
+    "classe": "pronome"
+  },
+  "aquele": {
+    "sindarin": "han",
+    "classe": "pronome"
+  },
+  "aqui": {
+    "sindarin": "sí",
+    "classe": "advérbio"
+  },
+  "aranha": {
+    "sindarin": "ungol",
+    "classe": "substantivo"
+  },
+  "aranhas": {
+    "sindarin": "yngyl",
+    "classe": "substantivo"
+  },
+  "arco": {
+    "sindarin": "peng",
+    "classe": "substantivo"
+  },
+  "ardente": {
+    "sindarin": "naur",
+    "classe": "adjetivo"
+  },
+  "armadura": {
+    "sindarin": "hauberk",
+    "classe": "substantivo"
+  },
+  "asa": {
+    "sindarin": "raw",
+    "classe": "substantivo"
+  },
+  "assim": {
+    "sindarin": "sí",
+    "classe": "advérbio"
+  },
+  "através": {
+    "sindarin": "tri",
+    "classe": "preposição"
+  },
+  "até": {
+    "sindarin": "tîr",
+    "classe": "preposição"
+  },
+  "aurora": {
+    "sindarin": "minuial",
+    "classe": "substantivo"
+  },
+  "ave": {
+    "sindarin": "aiya",
+    "classe": "interjeição"
+  },
+  "azul": {
+    "sindarin": "luin",
+    "classe": "adjetivo"
+  },
+  "aço": {
+    "sindarin": "harn",
+    "classe": "substantivo"
+  },
+  "barco": {
+    "sindarin": "gwilwileth",
+    "classe": "substantivo"
+  },
+  "batalha": {
+    "sindarin": "dagor",
+    "classe": "substantivo"
+  },
+  "batalhar": {
+    "sindarin": "dagor",
+    "classe": "substantivo"
+  },
+  "baía": {
+    "sindarin": "Côf Belfalas",
+    "classe": "nome-próprio"
+  },
+  "bebê": {
+    "sindarin": "gwinig",
+    "classe": "substantivo"
+  },
+  "bela": {
+    "sindarin": "bain",
+    "classe": "adjetivo"
+  },
+  "beleza": {
+    "sindarin": "bain",
+    "classe": "substantivo"
+  },
+  "belo": {
+    "sindarin": "bain",
+    "classe": "adjetivo"
+  },
+  "bem-vindo": {
+    "sindarin": "mae govannen",
+    "classe": "interjeição"
+  },
+  "boa": {
+    "sindarin": "maer",
+    "classe": "adjetivo"
+  },
+  "boca": {
+    "sindarin": "mund",
+    "classe": "substantivo"
+  },
+  "bom": {
+    "sindarin": "maer",
+    "classe": "adjetivo"
+  },
+  "bondade": {
+    "sindarin": "maer",
+    "classe": "substantivo"
+  },
+  "bonita": {
+    "sindarin": "bain",
+    "classe": "adjetivo"
+  },
+  "bonito": {
+    "sindarin": "bain",
+    "classe": "adjetivo"
+  },
+  "bosque": {
+    "sindarin": "eryn",
+    "classe": "substantivo"
+  },
+  "branca": {
+    "sindarin": "glân",
+    "classe": "adjetivo"
+  },
+  "branco": {
+    "sindarin": "glân",
+    "classe": "adjetivo"
+  },
+  "braço": {
+    "sindarin": "rân",
+    "classe": "substantivo"
+  },
+  "brilhante": {
+    "sindarin": "aglareb",
+    "classe": "adjetivo"
+  },
+  "brilhar": {
+    "sindarin": "fael¹",
+    "classe": "substantivo"
+  },
+  "brilho": {
+    "sindarin": "galad",
+    "classe": "substantivo"
+  },
+  "brisa": {
+    "sindarin": "hwesta",
+    "classe": "substantivo"
+  },
+  "buraco": {
+    "sindarin": "torech",
+    "classe": "substantivo"
+  },
+  "buscar": {
+    "sindarin": "maed",
+    "classe": "verbo"
+  },
+  "cabelo": {
+    "sindarin": "find",
+    "classe": "substantivo"
+  },
+  "cabeça": {
+    "sindarin": "dôl",
+    "classe": "substantivo"
+  },
+  "cachoeira": {
+    "sindarin": "lanthir",
+    "classe": "substantivo"
+  },
+  "cair": {
+    "sindarin": "penna-",
+    "classe": "verbo"
+  },
+  "calor": {
+    "sindarin": "bôr",
+    "classe": "substantivo"
+  },
+  "caminhar": {
+    "sindarin": "pad-",
+    "classe": "verbo"
+  },
+  "caminho": {
+    "sindarin": "râd",
+    "classe": "substantivo"
+  },
+  "campo": {
+    "sindarin": "tâl",
+    "classe": "substantivo"
+  },
+  "cansado": {
+    "sindarin": "dúlin",
+    "classe": "adjetivo"
+  },
+  "canto": {
+    "sindarin": "lind",
+    "classe": "substantivo"
+  },
+  "cantor": {
+    "sindarin": "Dagorlind",
+    "classe": "nome-próprio"
+  },
+  "canção": {
+    "sindarin": "lind",
+    "classe": "substantivo"
+  },
+  "capa": {
+    "sindarin": "fân",
+    "classe": "substantivo"
+  },
+  "capacete": {
+    "sindarin": "carab",
+    "classe": "substantivo"
+  },
+  "capitão": {
+    "sindarin": "caun",
+    "classe": "substantivo"
+  },
+  "carpinteiro": {
+    "sindarin": "cathr",
+    "classe": "substantivo"
+  },
+  "casa": {
+    "sindarin": "bâr",
+    "classe": "substantivo"
+  },
+  "cascalho": {
+    "sindarin": "brith",
+    "classe": "substantivo"
+  },
+  "castelo": {
+    "sindarin": "ost",
+    "classe": "substantivo"
+  },
+  "cavaleiro": {
+    "sindarin": "arben",
+    "classe": "substantivo"
+  },
+  "cavalo": {
+    "sindarin": "roch",
+    "classe": "substantivo"
+  },
+  "cavalos": {
+    "sindarin": "ryach",
+    "classe": "substantivo"
+  },
+  "caverna": {
+    "sindarin": "groth",
+    "classe": "substantivo"
+  },
+  "cervo": {
+    "sindarin": "ara",
+    "classe": "substantivo"
+  },
+  "chama": {
+    "sindarin": "naur",
+    "classe": "substantivo"
+  },
+  "chamar": {
+    "sindarin": "iâl",
+    "classe": "verbo"
+  },
+  "chefe": {
+    "sindarin": "main",
+    "classe": "adjetivo"
+  },
+  "chifre": {
+    "sindarin": "ras(s)",
+    "classe": "substantivo"
+  },
+  "chorar": {
+    "sindarin": "nae",
+    "classe": "verbo"
+  },
+  "choro": {
+    "sindarin": "gêl",
+    "classe": "substantivo"
+  },
+  "chuva": {
+    "sindarin": "ross",
+    "classe": "substantivo"
+  },
+  "cidade": {
+    "sindarin": "caras",
+    "classe": "substantivo"
+  },
+  "cidadela": {
+    "sindarin": "Osgiliath",
+    "classe": "nome-próprio"
+  },
+  "cinco": {
+    "sindarin": "leben",
+    "classe": "numeral"
+  },
+  "cinza": {
+    "sindarin": "mith",
+    "classe": "adjetivo"
+  },
+  "cinzento": {
+    "sindarin": "mith",
+    "classe": "adjetivo"
+  },
+  "cisne": {
+    "sindarin": "alph",
+    "classe": "substantivo"
+  },
+  "claro": {
+    "sindarin": "glân",
+    "classe": "adjetivo"
+  },
+  "cobra": {
+    "sindarin": "lhûg",
+    "classe": "substantivo"
+  },
+  "cobre": {
+    "sindarin": "rust",
+    "classe": "substantivo"
+  },
+  "colina": {
+    "sindarin": "amon",
+    "classe": "substantivo"
+  },
+  "colinas": {
+    "sindarin": "emyn",
+    "classe": "substantivo"
+  },
+  "com": {
+    "sindarin": "be",
+    "classe": "preposição"
+  },
+  "companheiro": {
+    "sindarin": "gwador",
+    "classe": "substantivo"
+  },
+  "confiar": {
+    "sindarin": "estel",
+    "classe": "verbo"
+  },
+  "conhecer": {
+    "sindarin": "ista",
+    "classe": "verbo"
+  },
+  "conhecimento": {
+    "sindarin": "gûl",
+    "classe": "substantivo"
+  },
+  "construir": {
+    "sindarin": "carfa",
+    "classe": "verbo"
+  },
+  "construtor de navios": {
+    "sindarin": "Círdan",
+    "classe": "nome-próprio"
+  },
+  "contemplar": {
+    "sindarin": "tiria-",
+    "classe": "verbo"
+  },
+  "conto": {
+    "sindarin": "narn",
+    "classe": "substantivo"
+  },
+  "contra": {
+    "sindarin": "dan",
+    "classe": "preposição"
+  },
+  "coragem": {
+    "sindarin": "thalion",
+    "classe": "substantivo"
+  },
+  "coração": {
+    "sindarin": "gûr",
+    "classe": "substantivo"
+  },
+  "corcel": {
+    "sindarin": "roch",
+    "classe": "substantivo"
+  },
+  "corpo": {
+    "sindarin": "corf",
+    "classe": "substantivo"
+  },
+  "correr": {
+    "sindarin": "noro lim, noro lim Asfaloth",
+    "classe": "expressão"
+  },
+  "corvo": {
+    "sindarin": "corch",
+    "classe": "substantivo"
+  },
+  "costa": {
+    "sindarin": "falas",
+    "classe": "substantivo"
+  },
+  "costas": {
+    "sindarin": "ad-",
+    "classe": "substantivo"
+  },
+  "crepúsculo": {
+    "sindarin": "undial",
+    "classe": "substantivo"
+  },
+  "criança": {
+    "sindarin": "hên",
+    "classe": "substantivo"
+  },
+  "crianças": {
+    "sindarin": "hîn",
+    "classe": "substantivo"
+  },
+  "criar": {
+    "sindarin": "caro",
+    "classe": "verbo"
+  },
+  "cristal": {
+    "sindarin": "heled",
+    "classe": "substantivo"
+  },
+  "curso": {
+    "sindarin": "rath",
+    "classe": "substantivo"
+  },
+  "curto": {
+    "sindarin": "esten(t)",
+    "classe": "adjetivo"
+  },
+  "câmara": {
+    "sindarin": "rond",
+    "classe": "substantivo"
+  },
+  "cão": {
+    "sindarin": "huan",
+    "classe": "substantivo"
+  },
+  "céu": {
+    "sindarin": "menel",
+    "classe": "substantivo"
+  },
+  "córrego": {
+    "sindarin": "Celon",
+    "classe": "nome-próprio"
+  },
+  "cúpula": {
+    "sindarin": "rond",
+    "classe": "substantivo"
+  },
+  "da": {
+    "sindarin": "o i",
+    "classe": "preposição"
+  },
+  "dan": {
+    "sindarin": "mas",
+    "classe": "conjunção"
+  },
+  "dar": {
+    "sindarin": "anna",
+    "classe": "verbo"
+  },
+  "das": {
+    "sindarin": "o in",
+    "classe": "preposição"
+  },
+  "daí": {
+    "sindarin": "ennas",
+    "classe": "advérbio"
+  },
+  "de": {
+    "sindarin": "o",
+    "classe": "preposição"
+  },
+  "dedo": {
+    "sindarin": "lebdas",
+    "classe": "substantivo"
+  },
+  "deles": {
+    "sindarin": "-ent",
+    "classe": "substantivo"
+  },
+  "demônio": {
+    "sindarin": "Balrog",
+    "classe": "nome-próprio"
+  },
+  "dente": {
+    "sindarin": "carch",
+    "classe": "substantivo"
+  },
+  "dentes": {
+    "sindarin": "cerch",
+    "classe": "substantivo"
+  },
+  "dentro": {
+    "sindarin": "mi",
+    "classe": "preposição"
+  },
+  "depois": {
+    "sindarin": "ab",
+    "classe": "preposição"
+  },
+  "descanso": {
+    "sindarin": "Îdh",
+    "classe": "nome-próprio"
+  },
+  "deserto": {
+    "sindarin": "rhosc",
+    "classe": "substantivo"
+  },
+  "desfiladeiro": {
+    "sindarin": "cirith",
+    "classe": "substantivo"
+  },
+  "despertar": {
+    "sindarin": "cuio",
+    "classe": "verbo"
+  },
+  "destino": {
+    "sindarin": "maer",
+    "classe": "substantivo"
+  },
+  "destruir": {
+    "sindarin": "brono",
+    "classe": "verbo"
+  },
+  "dez": {
+    "sindarin": "caer",
+    "classe": "numeral"
+  },
+  "dia": {
+    "sindarin": "aur",
+    "classe": "substantivo"
+  },
+  "diante": {
+    "sindarin": "na",
+    "classe": "preposição"
+  },
+  "discurso": {
+    "sindarin": "paeth",
+    "classe": "substantivo"
+  },
+  "dizer": {
+    "sindarin": "pedo",
+    "classe": "verbo"
+  },
+  "do": {
+    "sindarin": "o in",
+    "classe": "preposição"
+  },
+  "dobro": {
+    "sindarin": "adu",
+    "classe": "adjetivo"
+  },
+  "dois": {
+    "sindarin": "tâd",
+    "classe": "numeral"
+  },
+  "dor": {
+    "sindarin": "naeth",
+    "classe": "substantivo"
+  },
+  "dormir": {
+    "sindarin": "losta",
+    "classe": "verbo"
+  },
+  "dos": {
+    "sindarin": "o in",
+    "classe": "preposição"
+  },
+  "dourado": {
+    "sindarin": "malthen",
+    "classe": "adjetivo"
+  },
+  "doze": {
+    "sindarin": "tâd-caer",
+    "classe": "numeral"
+  },
+  "dragão": {
+    "sindarin": "lhûg",
+    "classe": "substantivo"
+  },
+  "dragões": {
+    "sindarin": "lhŷg",
+    "classe": "substantivo"
+  },
+  "duro": {
+    "sindarin": "dîr²",
+    "classe": "adjetivo"
+  },
+  "décimo": {
+    "sindarin": "paenui",
+    "classe": "substantivo"
+  },
+  "e": {
+    "sindarin": "a",
+    "classe": "conjunção"
+  },
+  "ela": {
+    "sindarin": "he",
+    "classe": "pronome"
+  },
+  "elas": {
+    "sindarin": "hain",
+    "classe": "pronome"
+  },
+  "ele": {
+    "sindarin": "ho",
+    "classe": "pronome"
+  },
+  "eles": {
+    "sindarin": "hain",
+    "classe": "pronome"
+  },
+  "elevado": {
+    "sindarin": "taer",
+    "classe": "adjetivo"
+  },
+  "elfa": {
+    "sindarin": "elleth",
+    "classe": "substantivo"
+  },
+  "elfas": {
+    "sindarin": "ellith",
+    "classe": "substantivo"
+  },
+  "elfo": {
+    "sindarin": "edhel",
+    "classe": "substantivo"
+  },
+  "elfos": {
+    "sindarin": "edhil",
+    "classe": "substantivo"
+  },
+  "elmo": {
+    "sindarin": "amloth",
+    "classe": "substantivo"
+  },
+  "em": {
+    "sindarin": "mi",
+    "classe": "preposição"
+  },
+  "embora": {
+    "sindarin": "egor",
+    "classe": "conjunção"
+  },
+  "enchente": {
+    "sindarin": "duinen",
+    "classe": "substantivo"
+  },
+  "encontrar": {
+    "sindarin": "govad",
+    "classe": "verbo"
+  },
+  "ent": {
+    "sindarin": "Onod",
+    "classe": "substantivo"
+  },
+  "entoar": {
+    "sindarin": "linna-",
+    "classe": "verbo"
+  },
+  "entrar": {
+    "sindarin": "minno",
+    "classe": "verbo"
+  },
+  "entre": {
+    "sindarin": "imbi",
+    "classe": "preposição"
+  },
+  "era": {
+    "sindarin": "yên",
+    "classe": "substantivo"
+  },
+  "errância": {
+    "sindarin": "rain",
+    "classe": "substantivo"
+  },
+  "erva": {
+    "sindarin": "salph",
+    "classe": "substantivo"
+  },
+  "escravo": {
+    "sindarin": "mûl",
+    "classe": "substantivo"
+  },
+  "escudo": {
+    "sindarin": "talf",
+    "classe": "substantivo"
+  },
+  "escuridão": {
+    "sindarin": "gwath",
+    "classe": "substantivo"
+  },
+  "escuro": {
+    "sindarin": "dorn",
+    "classe": "adjetivo"
+  },
+  "escutar": {
+    "sindarin": "lasto",
+    "classe": "interjeição"
+  },
+  "esforçar": {
+    "sindarin": "ritha-",
+    "classe": "verbo"
+  },
+  "espada": {
+    "sindarin": "megil",
+    "classe": "substantivo"
+  },
+  "espectro": {
+    "sindarin": "gûl",
+    "classe": "substantivo"
+  },
+  "espectros": {
+    "sindarin": "gŷl",
+    "classe": "substantivo"
+  },
+  "esperança": {
+    "sindarin": "estel",
+    "classe": "substantivo"
+  },
+  "esperar": {
+    "sindarin": "estel",
+    "classe": "verbo"
+  },
+  "espião": {
+    "sindarin": "ethir²",
+    "classe": "substantivo"
+  },
+  "esposa": {
+    "sindarin": "bess",
+    "classe": "substantivo"
+  },
+  "espírito": {
+    "sindarin": "fêa",
+    "classe": "substantivo"
+  },
+  "esta": {
+    "sindarin": "sen",
+    "classe": "pronome"
+  },
+  "este": {
+    "sindarin": "sen",
+    "classe": "pronome"
+  },
+  "estrada": {
+    "sindarin": "men",
+    "classe": "substantivo"
+  },
+  "estreito": {
+    "sindarin": "Aglon",
+    "classe": "nome-próprio"
+  },
+  "estrela": {
+    "sindarin": "elen",
+    "classe": "substantivo"
+  },
+  "estrelas": {
+    "sindarin": "elin",
+    "classe": "substantivo"
+  },
+  "eterno": {
+    "sindarin": "ovor",
+    "classe": "adjetivo"
+  },
+  "eu": {
+    "sindarin": "im",
+    "classe": "pronome"
+  },
+  "exterior": {
+    "sindarin": "echor",
+    "classe": "substantivo"
+  },
+  "exército": {
+    "sindarin": "hoth",
+    "classe": "substantivo"
+  },
+  "exílio": {
+    "sindarin": "edledh",
+    "classe": "substantivo"
+  },
+  "faca": {
+    "sindarin": "sigil",
+    "classe": "substantivo"
+  },
+  "falar": {
+    "sindarin": "pedo",
+    "classe": "verbo"
+  },
+  "família": {
+    "sindarin": "nos(s)",
+    "classe": "substantivo"
+  },
+  "fazer": {
+    "sindarin": "caro",
+    "classe": "verbo"
+  },
+  "faísca": {
+    "sindarin": "tîn¹",
+    "classe": "substantivo"
+  },
+  "fechadura": {
+    "sindarin": "fing",
+    "classe": "substantivo"
+  },
+  "fera": {
+    "sindarin": "rhaw¹",
+    "classe": "substantivo"
+  },
+  "ferreiro": {
+    "sindarin": "tân",
+    "classe": "substantivo"
+  },
+  "ferro": {
+    "sindarin": "ang",
+    "classe": "substantivo"
+  },
+  "filha": {
+    "sindarin": "iell",
+    "classe": "substantivo"
+  },
+  "filho": {
+    "sindarin": "ion",
+    "classe": "substantivo"
+  },
+  "filhos": {
+    "sindarin": "iyn",
+    "classe": "substantivo"
+  },
+  "fim": {
+    "sindarin": "medui",
+    "classe": "adjetivo"
+  },
+  "fino": {
+    "sindarin": "esbin",
+    "classe": "substantivo"
+  },
+  "fivela": {
+    "sindarin": "tachol",
+    "classe": "substantivo"
+  },
+  "flecha": {
+    "sindarin": "pilin",
+    "classe": "substantivo"
+  },
+  "flechas": {
+    "sindarin": "pilin",
+    "classe": "substantivo"
+  },
+  "flor": {
+    "sindarin": "loth",
+    "classe": "substantivo"
+  },
+  "flores": {
+    "sindarin": "lyth",
+    "classe": "substantivo"
+  },
+  "floresta": {
+    "sindarin": "taur",
+    "classe": "substantivo"
+  },
+  "fogo": {
+    "sindarin": "naur",
+    "classe": "substantivo"
+  },
+  "folha": {
+    "sindarin": "lalf",
+    "classe": "substantivo"
+  },
+  "folhas": {
+    "sindarin": "lelf",
+    "classe": "substantivo"
+  },
+  "fonte": {
+    "sindarin": "eithel",
+    "classe": "substantivo"
+  },
+  "fora": {
+    "sindarin": "or",
+    "classe": "preposição"
+  },
+  "formoso": {
+    "sindarin": "bain",
+    "classe": "adjetivo"
+  },
+  "fortaleza": {
+    "sindarin": "ost",
+    "classe": "substantivo"
+  },
+  "forte": {
+    "sindarin": "thalion",
+    "classe": "adjetivo"
+  },
+  "força": {
+    "sindarin": "balt",
+    "classe": "substantivo"
+  },
+  "fresco": {
+    "sindarin": "Himlad",
+    "classe": "nome-próprio"
+  },
+  "frio": {
+    "sindarin": "ring",
+    "classe": "adjetivo"
+  },
+  "fugir": {
+    "sindarin": "edledh",
+    "classe": "verbo"
+  },
+  "fumaça": {
+    "sindarin": "osp",
+    "classe": "substantivo"
+  },
+  "fé": {
+    "sindarin": "estel",
+    "classe": "substantivo"
+  },
+  "geada": {
+    "sindarin": "forweg",
+    "classe": "substantivo"
+  },
+  "gelado": {
+    "sindarin": "heleg",
+    "classe": "adjetivo"
+  },
+  "gelo": {
+    "sindarin": "heleg",
+    "classe": "substantivo"
+  },
+  "glorioso": {
+    "sindarin": "aglareb",
+    "classe": "adjetivo"
+  },
+  "glória": {
+    "sindarin": "aglar",
+    "classe": "substantivo"
+  },
+  "grama": {
+    "sindarin": "glae",
+    "classe": "substantivo"
+  },
+  "grande": {
+    "sindarin": "beleg",
+    "classe": "adjetivo"
+  },
+  "grande-mar": {
+    "sindarin": "aearon",
+    "classe": "substantivo"
+  },
+  "guardar": {
+    "sindarin": "tiria",
+    "classe": "verbo"
+  },
+  "guardião": {
+    "sindarin": "tirn",
+    "classe": "substantivo"
+  },
+  "guerra": {
+    "sindarin": "dagor",
+    "classe": "substantivo"
+  },
+  "guerreiro": {
+    "sindarin": "maethon",
+    "classe": "substantivo"
+  },
+  "guerreiros": {
+    "sindarin": "maethor",
+    "classe": "substantivo"
+  },
+  "guiar": {
+    "sindarin": "tog",
+    "classe": "verbo"
+  },
+  "habilidade": {
+    "sindarin": "curu",
+    "classe": "substantivo"
+  },
+  "herói": {
+    "sindarin": "condir",
+    "classe": "substantivo"
+  },
+  "história": {
+    "sindarin": "narn",
+    "classe": "substantivo"
+  },
+  "hobbit": {
+    "sindarin": "perian",
+    "classe": "substantivo"
+  },
+  "hobbits": {
+    "sindarin": "periain",
+    "classe": "substantivo"
+  },
+  "homem": {
+    "sindarin": "adan",
+    "classe": "substantivo"
+  },
+  "homens": {
+    "sindarin": "edain",
+    "classe": "substantivo"
+  },
+  "honra": {
+    "sindarin": "rîn",
+    "classe": "substantivo"
+  },
+  "horror": {
+    "sindarin": "gorgor",
+    "classe": "substantivo"
+  },
+  "idioma": {
+    "sindarin": "lam",
+    "classe": "substantivo"
+  },
+  "ilha": {
+    "sindarin": "tol",
+    "classe": "substantivo"
+  },
+  "iluminar": {
+    "sindarin": "cala",
+    "classe": "verbo"
+  },
+  "imortal": {
+    "sindarin": "ovor",
+    "classe": "adjetivo"
+  },
+  "inimigo": {
+    "sindarin": "goth",
+    "classe": "substantivo"
+  },
+  "ir": {
+    "sindarin": "men",
+    "classe": "verbo"
+  },
+  "ira": {
+    "sindarin": "rûth",
+    "classe": "substantivo"
+  },
+  "irmã": {
+    "sindarin": "muinthel",
+    "classe": "substantivo"
+  },
+  "irmão": {
+    "sindarin": "muindor",
+    "classe": "substantivo"
+  },
+  "isso": {
+    "sindarin": "ed²",
+    "classe": "pronome"
+  },
+  "joia": {
+    "sindarin": "mîr",
+    "classe": "substantivo"
+  },
+  "joias": {
+    "sindarin": "mîr",
+    "classe": "substantivo"
+  },
+  "jornada": {
+    "sindarin": "ped",
+    "classe": "substantivo"
+  },
+  "jovem": {
+    "sindarin": "tithen",
+    "classe": "adjetivo"
+  },
+  "junco": {
+    "sindarin": "lisg",
+    "classe": "substantivo"
+  },
+  "lago": {
+    "sindarin": "aelin",
+    "classe": "substantivo"
+  },
+  "lama": {
+    "sindarin": "madha",
+    "classe": "substantivo"
+  },
+  "lamento": {
+    "sindarin": "naeth",
+    "classe": "substantivo"
+  },
+  "lança": {
+    "sindarin": "êg",
+    "classe": "substantivo"
+  },
+  "lar": {
+    "sindarin": "bar",
+    "classe": "substantivo"
+  },
+  "largo": {
+    "sindarin": "iaun",
+    "classe": "adjetivo"
+  },
+  "lealdade": {
+    "sindarin": "astor",
+    "classe": "substantivo"
+  },
+  "lei": {
+    "sindarin": "cân",
+    "classe": "substantivo"
+  },
+  "lembrança": {
+    "sindarin": "Elurín",
+    "classe": "nome-próprio"
+  },
+  "lembrar": {
+    "sindarin": "thuia",
+    "classe": "verbo"
+  },
+  "leste": {
+    "sindarin": "rhûn",
+    "classe": "substantivo"
+  },
+  "letra": {
+    "sindarin": "têw",
+    "classe": "substantivo"
+  },
+  "leve": {
+    "sindarin": "ast",
+    "classe": "substantivo"
+  },
+  "libertar": {
+    "sindarin": "edlothia",
+    "classe": "verbo"
+  },
+  "libertação": {
+    "sindarin": "edlothiad",
+    "classe": "substantivo"
+  },
+  "livre": {
+    "sindarin": "lain",
+    "classe": "adjetivo"
+  },
+  "lobo": {
+    "sindarin": "gaur",
+    "classe": "substantivo"
+  },
+  "lobos": {
+    "sindarin": "góir",
+    "classe": "substantivo"
+  },
+  "longe": {
+    "sindarin": "haer",
+    "classe": "preposição"
+  },
+  "longo": {
+    "sindarin": "and",
+    "classe": "adjetivo"
+  },
+  "lua": {
+    "sindarin": "ithil",
+    "classe": "substantivo"
+  },
+  "luta": {
+    "sindarin": "dagor",
+    "classe": "substantivo"
+  },
+  "lutar": {
+    "sindarin": "dago",
+    "classe": "verbo"
+  },
+  "luz": {
+    "sindarin": "calad",
+    "classe": "substantivo"
+  },
+  "lágrimas": {
+    "sindarin": "nirnaeth",
+    "classe": "substantivo"
+  },
+  "lâmpada": {
+    "sindarin": "calar",
+    "classe": "substantivo"
+  },
+  "língua": {
+    "sindarin": "lam",
+    "classe": "substantivo"
+  },
+  "madeira": {
+    "sindarin": "eryn",
+    "classe": "substantivo"
+  },
+  "mago": {
+    "sindarin": "ithron",
+    "classe": "substantivo"
+  },
+  "magos": {
+    "sindarin": "ithryn",
+    "classe": "substantivo"
+  },
+  "maldito": {
+    "sindarin": "mordo",
+    "classe": "adjetivo"
+  },
+  "manhã": {
+    "sindarin": "minuial",
+    "classe": "substantivo"
+  },
+  "manto": {
+    "sindarin": "gwethil",
+    "classe": "substantivo"
+  },
+  "mar": {
+    "sindarin": "gaear",
+    "classe": "substantivo"
+  },
+  "marca": {
+    "sindarin": "glandagol",
+    "classe": "substantivo"
+  },
+  "mas": {
+    "sindarin": "dan",
+    "classe": "conjunção"
+  },
+  "mau": {
+    "sindarin": "gwaur",
+    "classe": "adjetivo"
+  },
+  "me": {
+    "sindarin": "nin",
+    "classe": "pronome"
+  },
+  "medo": {
+    "sindarin": "gorgor",
+    "classe": "substantivo"
+  },
+  "memória": {
+    "sindarin": "iâl",
+    "classe": "substantivo"
+  },
+  "menina": {
+    "sindarin": "neth",
+    "classe": "substantivo"
+  },
+  "mente": {
+    "sindarin": "ind",
+    "classe": "substantivo"
+  },
+  "mestre": {
+    "sindarin": "golodh",
+    "classe": "substantivo"
+  },
+  "metade": {
+    "sindarin": "per-",
+    "classe": "substantivo"
+  },
+  "meu": {
+    "sindarin": "nín",
+    "classe": "pronome"
+  },
+  "meus": {
+    "sindarin": "nín",
+    "classe": "pronome"
+  },
+  "mina": {
+    "sindarin": "fela",
+    "classe": "substantivo"
+  },
+  "minha": {
+    "sindarin": "nín",
+    "classe": "pronome"
+  },
+  "minhas": {
+    "sindarin": "nín",
+    "classe": "pronome"
+  },
+  "minúsculo": {
+    "sindarin": "tithen",
+    "classe": "adjetivo"
+  },
+  "missão": {
+    "sindarin": "men",
+    "classe": "substantivo"
+  },
+  "montanha": {
+    "sindarin": "orod",
+    "classe": "substantivo"
+  },
+  "montanhas": {
+    "sindarin": "ered",
+    "classe": "substantivo"
+  },
+  "morada": {
+    "sindarin": "barthan",
+    "classe": "substantivo"
+  },
+  "morrer": {
+    "sindarin": "fir",
+    "classe": "verbo"
+  },
+  "morta": {
+    "sindarin": "gurth",
+    "classe": "adjetivo"
+  },
+  "mortal": {
+    "sindarin": "firiel",
+    "classe": "adjetivo"
+  },
+  "morte": {
+    "sindarin": "gurth",
+    "classe": "substantivo"
+  },
+  "morto": {
+    "sindarin": "gurth",
+    "classe": "adjetivo"
+  },
+  "muito": {
+    "sindarin": "daer",
+    "classe": "advérbio"
+  },
+  "muitos": {
+    "sindarin": "rim",
+    "classe": "numeral"
+  },
+  "mulher": {
+    "sindarin": "dís",
+    "classe": "substantivo"
+  },
+  "mundo": {
+    "sindarin": "ambar",
+    "classe": "substantivo"
+  },
+  "muro": {
+    "sindarin": "ram",
+    "classe": "substantivo"
+  },
+  "má": {
+    "sindarin": "gwaur",
+    "classe": "adjetivo"
+  },
+  "mãe": {
+    "sindarin": "naneth",
+    "classe": "substantivo"
+  },
+  "mão": {
+    "sindarin": "cam",
+    "classe": "substantivo"
+  },
+  "mãos": {
+    "sindarin": "caim",
+    "classe": "substantivo"
+  },
+  "möbel": {
+    "sindarin": "na",
+    "classe": "preposição"
+  },
+  "música": {
+    "sindarin": "lind",
+    "classe": "substantivo"
+  },
+  "na": {
+    "sindarin": "mi",
+    "classe": "preposição"
+  },
+  "nas": {
+    "sindarin": "mi",
+    "classe": "preposição"
+  },
+  "nascente": {
+    "sindarin": "eithel",
+    "classe": "substantivo"
+  },
+  "navio": {
+    "sindarin": "celefn",
+    "classe": "substantivo"
+  },
+  "neblina": {
+    "sindarin": "hîth",
+    "classe": "substantivo"
+  },
+  "negro": {
+    "sindarin": "morn",
+    "classe": "adjetivo"
+  },
+  "nenhum": {
+    "sindarin": "ú",
+    "classe": "numeral"
+  },
+  "neve": {
+    "sindarin": "loss",
+    "classe": "substantivo"
+  },
+  "no": {
+    "sindarin": "mi",
+    "classe": "preposição"
+  },
+  "nobre": {
+    "sindarin": "ar(a)-",
+    "classe": "substantivo"
+  },
+  "noite": {
+    "sindarin": "dû",
+    "classe": "substantivo"
+  },
+  "nome": {
+    "sindarin": "eneth",
+    "classe": "substantivo"
+  },
+  "nomear": {
+    "sindarin": "eneth",
+    "classe": "verbo"
+  },
+  "nono": {
+    "sindarin": "nedrui",
+    "classe": "substantivo"
+  },
+  "norte": {
+    "sindarin": "forod",
+    "classe": "substantivo"
+  },
+  "nos": {
+    "sindarin": "mi",
+    "classe": "preposição"
+  },
+  "nossa": {
+    "sindarin": "vín",
+    "classe": "pronome"
+  },
+  "nosso": {
+    "sindarin": "vín",
+    "classe": "pronome"
+  },
+  "nove": {
+    "sindarin": "neder",
+    "classe": "numeral"
+  },
+  "novo": {
+    "sindarin": "edwen",
+    "classe": "adjetivo"
+  },
+  "nunca": {
+    "sindarin": "ú",
+    "classe": "advérbio"
+  },
+  "nuvem": {
+    "sindarin": "faun",
+    "classe": "substantivo"
+  },
+  "nuvens": {
+    "sindarin": "fuin",
+    "classe": "substantivo"
+  },
+  "não": {
+    "sindarin": "ú",
+    "classe": "interjeição"
+  },
+  "névoa": {
+    "sindarin": "hîth",
+    "classe": "substantivo"
+  },
+  "nós": {
+    "sindarin": "men",
+    "classe": "pronome"
+  },
+  "o": {
+    "sindarin": "Angolodh",
+    "classe": "nome-próprio"
+  },
+  "obrigado": {
+    "sindarin": "hannon le",
+    "classe": "interjeição"
+  },
+  "oceano": {
+    "sindarin": "gaearon",
+    "classe": "substantivo"
+  },
+  "ocidente": {
+    "sindarin": "annûn",
+    "classe": "substantivo"
+  },
+  "oco": {
+    "sindarin": "Bar-goll",
+    "classe": "nome-próprio"
+  },
+  "oculto": {
+    "sindarin": "thurin",
+    "classe": "adjetivo"
+  },
+  "odiar": {
+    "sindarin": "dell",
+    "classe": "verbo"
+  },
+  "oeste": {
+    "sindarin": "annûn",
+    "classe": "substantivo"
+  },
+  "oitavo": {
+    "sindarin": "tollui",
+    "classe": "substantivo"
+  },
+  "oito": {
+    "sindarin": "tolodh",
+    "classe": "numeral"
+  },
+  "olhar": {
+    "sindarin": "tir",
+    "classe": "verbo"
+  },
+  "olho": {
+    "sindarin": "hen",
+    "classe": "substantivo"
+  },
+  "olhos": {
+    "sindarin": "hîn",
+    "classe": "substantivo"
+  },
+  "olá": {
+    "sindarin": "suilad",
+    "classe": "interjeição"
+  },
+  "orco": {
+    "sindarin": "orch",
+    "classe": "substantivo"
+  },
+  "orcos": {
+    "sindarin": "yrch",
+    "classe": "substantivo"
+  },
+  "ordem": {
+    "sindarin": "taid",
+    "classe": "adjetivo"
+  },
+  "orelha": {
+    "sindarin": "lhaw",
+    "classe": "substantivo"
+  },
+  "orelhas": {
+    "sindarin": "lhîw",
+    "classe": "substantivo"
+  },
+  "orgulhoso": {
+    "sindarin": "tarlang",
+    "classe": "substantivo"
+  },
+  "oriente": {
+    "sindarin": "rhûn",
+    "classe": "substantivo"
+  },
+  "osso": {
+    "sindarin": "ast",
+    "classe": "substantivo"
+  },
+  "ou": {
+    "sindarin": "egor",
+    "classe": "conjunção"
+  },
+  "ouro": {
+    "sindarin": "malt",
+    "classe": "substantivo"
+  },
+  "outeiro": {
+    "sindarin": "Cerin Amroth",
+    "classe": "nome-próprio"
+  },
+  "ouvir": {
+    "sindarin": "lasta",
+    "classe": "verbo"
+  },
+  "pai": {
+    "sindarin": "adar",
+    "classe": "substantivo"
+  },
+  "pais": {
+    "sindarin": "edair",
+    "classe": "substantivo"
+  },
+  "palavra": {
+    "sindarin": "peth",
+    "classe": "substantivo"
+  },
+  "palma": {
+    "sindarin": "plad",
+    "classe": "substantivo"
+  },
+  "para": {
+    "sindarin": "na",
+    "classe": "preposição"
+  },
+  "partir": {
+    "sindarin": "gwanno",
+    "classe": "verbo"
+  },
+  "passagem": {
+    "sindarin": "rath",
+    "classe": "substantivo"
+  },
+  "paz": {
+    "sindarin": "sîdh",
+    "classe": "substantivo"
+  },
+  "país": {
+    "sindarin": "dôr",
+    "classe": "substantivo"
+  },
+  "pedra": {
+    "sindarin": "gond",
+    "classe": "substantivo"
+  },
+  "pedras": {
+    "sindarin": "gyn",
+    "classe": "substantivo"
+  },
+  "peixe": {
+    "sindarin": "lim",
+    "classe": "substantivo"
+  },
+  "pele": {
+    "sindarin": "flâd",
+    "classe": "substantivo"
+  },
+  "penhasco": {
+    "sindarin": "crist",
+    "classe": "substantivo"
+  },
+  "pensamento": {
+    "sindarin": "ind",
+    "classe": "substantivo"
+  },
+  "pequeno": {
+    "sindarin": "niben",
+    "classe": "adjetivo"
+  },
+  "perdida": {
+    "sindarin": "raun",
+    "classe": "adjetivo"
+  },
+  "perdido": {
+    "sindarin": "raun",
+    "classe": "adjetivo"
+  },
+  "perto": {
+    "sindarin": "na",
+    "classe": "preposição"
+  },
+  "perverso": {
+    "sindarin": "ogron",
+    "classe": "substantivo"
+  },
+  "pesado": {
+    "sindarin": "lung",
+    "classe": "adjetivo"
+  },
+  "pescoço": {
+    "sindarin": "ach¹",
+    "classe": "substantivo"
+  },
+  "pico": {
+    "sindarin": "min²",
+    "classe": "substantivo"
+  },
+  "planície": {
+    "sindarin": "talath",
+    "classe": "substantivo"
+  },
+  "poder": {
+    "sindarin": "bôr",
+    "classe": "substantivo"
+  },
+  "poderoso": {
+    "sindarin": "bôr",
+    "classe": "adjetivo"
+  },
+  "poeira": {
+    "sindarin": "lith",
+    "classe": "substantivo"
+  },
+  "pois": {
+    "sindarin": "an",
+    "classe": "conjunção"
+  },
+  "polegar": {
+    "sindarin": "atheg",
+    "classe": "substantivo"
+  },
+  "ponte": {
+    "sindarin": "Esgaliant",
+    "classe": "nome-próprio"
+  },
+  "por": {
+    "sindarin": "na",
+    "classe": "preposição"
+  },
+  "por-favor": {
+    "sindarin": "le linnon",
+    "classe": "interjeição"
+  },
+  "porque": {
+    "sindarin": "an",
+    "classe": "conjunção"
+  },
+  "porta": {
+    "sindarin": "annon",
+    "classe": "substantivo"
+  },
+  "portanto": {
+    "sindarin": "an",
+    "classe": "conjunção"
+  },
+  "portão": {
+    "sindarin": "annon",
+    "classe": "substantivo"
+  },
+  "povo": {
+    "sindarin": "gwaith",
+    "classe": "substantivo"
+  },
+  "povos": {
+    "sindarin": "gweith",
+    "classe": "substantivo"
+  },
+  "poço": {
+    "sindarin": "Eithel Ivrin",
+    "classe": "nome-próprio"
+  },
+  "praia": {
+    "sindarin": "Anfalas",
+    "classe": "nome-próprio"
+  },
+  "praias": {
+    "sindarin": "falas",
+    "classe": "substantivo"
+  },
+  "prata": {
+    "sindarin": "celeb",
+    "classe": "substantivo"
+  },
+  "prateado": {
+    "sindarin": "celeben",
+    "classe": "adjetivo"
+  },
+  "prefixo": {
+    "sindarin": "an-",
+    "classe": "substantivo"
+  },
+  "presa": {
+    "sindarin": "carch",
+    "classe": "substantivo"
+  },
+  "presente": {
+    "sindarin": "ann¹",
+    "classe": "substantivo"
+  },
+  "preto": {
+    "sindarin": "morn",
+    "classe": "adjetivo"
+  },
+  "primeiro": {
+    "sindarin": "minui",
+    "classe": "numeral"
+  },
+  "princesa": {
+    "sindarin": "brethil²",
+    "classe": "substantivo"
+  },
+  "prisão": {
+    "sindarin": "band",
+    "classe": "substantivo"
+  },
+  "profundo": {
+    "sindarin": "tund",
+    "classe": "adjetivo"
+  },
+  "proteger": {
+    "sindarin": "tiria",
+    "classe": "verbo"
+  },
+  "proteção": {
+    "sindarin": "tirith",
+    "classe": "substantivo"
+  },
+  "príncipe": {
+    "sindarin": "arassuil",
+    "classe": "substantivo"
+  },
+  "punhal": {
+    "sindarin": "sigil",
+    "classe": "substantivo"
+  },
+  "punho": {
+    "sindarin": "dond",
+    "classe": "substantivo"
+  },
+  "pálido": {
+    "sindarin": "nimp",
+    "classe": "adjetivo"
+  },
+  "pássaro": {
+    "sindarin": "aew",
+    "classe": "substantivo"
+  },
+  "pântano": {
+    "sindarin": "pûl",
+    "classe": "substantivo"
+  },
+  "pé": {
+    "sindarin": "tâl",
+    "classe": "substantivo"
+  },
+  "pés": {
+    "sindarin": "tail",
+    "classe": "substantivo"
+  },
+  "pôr-do-sol": {
+    "sindarin": "annûn",
+    "classe": "substantivo"
+  },
+  "quando": {
+    "sindarin": "be",
+    "classe": "conjunção"
+  },
+  "quarto": {
+    "sindarin": "canthui",
+    "classe": "substantivo"
+  },
+  "quatro": {
+    "sindarin": "canad",
+    "classe": "numeral"
+  },
+  "que": {
+    "sindarin": "i",
+    "classe": "conjunção"
+  },
+  "quem": {
+    "sindarin": "man",
+    "classe": "pronome"
+  },
+  "quente": {
+    "sindarin": "naur",
+    "classe": "adjetivo"
+  },
+  "quieto": {
+    "sindarin": "dínen",
+    "classe": "adjetivo"
+  },
+  "quinto": {
+    "sindarin": "Lefnui",
+    "classe": "nome-próprio"
+  },
+  "rainha": {
+    "sindarin": "rían",
+    "classe": "substantivo"
+  },
+  "raiva": {
+    "sindarin": "oroth",
+    "classe": "substantivo"
+  },
+  "raiz": {
+    "sindarin": "thond",
+    "classe": "substantivo"
+  },
+  "raposa": {
+    "sindarin": "rusc",
+    "classe": "substantivo"
+  },
+  "ravina": {
+    "sindarin": "cirith",
+    "classe": "substantivo"
+  },
+  "raça": {
+    "sindarin": "north",
+    "classe": "substantivo"
+  },
+  "refúgio": {
+    "sindarin": "lond",
+    "classe": "substantivo"
+  },
+  "região": {
+    "sindarin": "gardh",
+    "classe": "substantivo"
+  },
+  "rei": {
+    "sindarin": "aran",
+    "classe": "substantivo"
+  },
+  "reino": {
+    "sindarin": "arthor",
+    "classe": "substantivo"
+  },
+  "reis": {
+    "sindarin": "erain",
+    "classe": "substantivo"
+  },
+  "relâmpago": {
+    "sindarin": "brêg",
+    "classe": "substantivo"
+  },
+  "resgatar": {
+    "sindarin": "edraith",
+    "classe": "substantivo"
+  },
+  "respiração": {
+    "sindarin": "faw",
+    "classe": "substantivo"
+  },
+  "responder": {
+    "sindarin": "dangweth",
+    "classe": "substantivo"
+  },
+  "retorno": {
+    "sindarin": "edrad",
+    "classe": "substantivo"
+  },
+  "reverência": {
+    "sindarin": "anwar",
+    "classe": "substantivo"
+  },
+  "rio": {
+    "sindarin": "sîr",
+    "classe": "substantivo"
+  },
+  "rios": {
+    "sindarin": "sîr",
+    "classe": "substantivo"
+  },
+  "rocha": {
+    "sindarin": "sarn",
+    "classe": "substantivo"
+  },
+  "rosa": {
+    "sindarin": "meril",
+    "classe": "substantivo"
+  },
+  "rosto": {
+    "sindarin": "fen",
+    "classe": "substantivo"
+  },
+  "rouxinol": {
+    "sindarin": "dúlin",
+    "classe": "substantivo"
+  },
+  "rua": {
+    "sindarin": "rath",
+    "classe": "substantivo"
+  },
+  "ruim": {
+    "sindarin": "ogol",
+    "classe": "adjetivo"
+  },
+  "runa": {
+    "sindarin": "têw",
+    "classe": "substantivo"
+  },
+  "rápido": {
+    "sindarin": "celeg",
+    "classe": "adjetivo"
+  },
+  "sabedoria": {
+    "sindarin": "gûr",
+    "classe": "substantivo"
+  },
+  "saber": {
+    "sindarin": "ista",
+    "classe": "verbo"
+  },
+  "sadio": {
+    "sindarin": "alu",
+    "classe": "adjetivo"
+  },
+  "sagrado": {
+    "sindarin": "aer",
+    "classe": "adjetivo"
+  },
+  "sala": {
+    "sindarin": "rond",
+    "classe": "substantivo"
+  },
+  "salvar": {
+    "sindarin": "edraith",
+    "classe": "verbo"
+  },
+  "salão": {
+    "sindarin": "rond",
+    "classe": "substantivo"
+  },
+  "sangue": {
+    "sindarin": "sereg",
+    "classe": "substantivo"
+  },
+  "se": {
+    "sindarin": "ai",
+    "classe": "conjunção"
+  },
+  "secreto": {
+    "sindarin": "thurin",
+    "classe": "adjetivo"
+  },
+  "segredo": {
+    "sindarin": "thurin",
+    "classe": "substantivo"
+  },
+  "seguidor": {
+    "sindarin": "aphadon",
+    "classe": "substantivo"
+  },
+  "seguir": {
+    "sindarin": "nedh",
+    "classe": "verbo"
+  },
+  "segundo": {
+    "sindarin": "tadui",
+    "classe": "substantivo"
+  },
+  "sei": {
+    "sindarin": "ista",
+    "classe": "verbo"
+  },
+  "seis": {
+    "sindarin": "eneg",
+    "classe": "numeral"
+  },
+  "seixo": {
+    "sindarin": "Serni",
+    "classe": "nome-próprio"
+  },
+  "sem": {
+    "sindarin": "av",
+    "classe": "preposição"
+  },
+  "sempre": {
+    "sindarin": "avo",
+    "classe": "advérbio"
+  },
+  "senhor": {
+    "sindarin": "hîr",
+    "classe": "substantivo"
+  },
+  "senhora": {
+    "sindarin": "hiril",
+    "classe": "substantivo"
+  },
+  "ser": {
+    "sindarin": "na",
+    "classe": "verbo"
+  },
+  "serpente": {
+    "sindarin": "lhûg",
+    "classe": "substantivo"
+  },
+  "sete": {
+    "sindarin": "odog",
+    "classe": "numeral"
+  },
+  "seu": {
+    "sindarin": "dîn",
+    "classe": "pronome"
+  },
+  "sexto": {
+    "sindarin": "enchui",
+    "classe": "substantivo"
+  },
+  "silencioso": {
+    "sindarin": "dínen",
+    "classe": "adjetivo"
+  },
+  "sim": {
+    "sindarin": "ae",
+    "classe": "interjeição"
+  },
+  "sinal": {
+    "sindarin": "taith",
+    "classe": "substantivo"
+  },
+  "sob": {
+    "sindarin": "di",
+    "classe": "preposição"
+  },
+  "sobre": {
+    "sindarin": "or",
+    "classe": "preposição"
+  },
+  "socorro": {
+    "sindarin": "edraith",
+    "classe": "interjeição"
+  },
+  "sol": {
+    "sindarin": "anor",
+    "classe": "substantivo"
+  },
+  "solitário": {
+    "sindarin": "er",
+    "classe": "adjetivo"
+  },
+  "sombra": {
+    "sindarin": "dae",
+    "classe": "substantivo"
+  },
+  "sombra-escura": {
+    "sindarin": "gwath",
+    "classe": "substantivo"
+  },
+  "sombrio": {
+    "sindarin": "dûr",
+    "classe": "adjetivo"
+  },
+  "somente": {
+    "sindarin": "er",
+    "classe": "advérbio"
+  },
+  "sonho": {
+    "sindarin": "oloth",
+    "classe": "substantivo"
+  },
+  "sua": {
+    "sindarin": "dîn",
+    "classe": "pronome"
+  },
+  "sufixo": {
+    "sindarin": "-a",
+    "classe": "substantivo"
+  },
+  "sufixo adjetivo": {
+    "sindarin": "-ui",
+    "classe": "substantivo"
+  },
+  "sul": {
+    "sindarin": "harad",
+    "classe": "substantivo"
+  },
+  "sábio": {
+    "sindarin": "gûr",
+    "classe": "substantivo"
+  },
+  "sétimo": {
+    "sindarin": "othui",
+    "classe": "substantivo"
+  },
+  "também": {
+    "sindarin": "eithro",
+    "classe": "advérbio"
+  },
+  "temer": {
+    "sindarin": "gôr",
+    "classe": "verbo"
+  },
+  "tempestade": {
+    "sindarin": "gwaew",
+    "classe": "substantivo"
+  },
+  "tempo": {
+    "sindarin": "lú",
+    "classe": "substantivo"
+  },
+  "terceiro": {
+    "sindarin": "nail",
+    "classe": "substantivo"
+  },
+  "terra": {
+    "sindarin": "ceven",
+    "classe": "substantivo"
+  },
+  "terra-média": {
+    "sindarin": "ennor",
+    "classe": "substantivo"
+  },
+  "terror": {
+    "sindarin": "gorgor",
+    "classe": "substantivo"
+  },
+  "tesouro": {
+    "sindarin": "glaur",
+    "classe": "substantivo"
+  },
+  "teu": {
+    "sindarin": "lín",
+    "classe": "pronome"
+  },
+  "todos": {
+    "sindarin": "pân",
+    "classe": "adjetivo"
+  },
+  "tomar": {
+    "sindarin": "cab",
+    "classe": "verbo"
+  },
+  "torre": {
+    "sindarin": "barad",
+    "classe": "substantivo"
+  },
+  "traidor": {
+    "sindarin": "gurgof",
+    "classe": "substantivo"
+  },
+  "trazer": {
+    "sindarin": "tog",
+    "classe": "verbo"
+  },
+  "trevas": {
+    "sindarin": "fuion",
+    "classe": "substantivo"
+  },
+  "trilha": {
+    "sindarin": "pâd",
+    "classe": "substantivo"
+  },
+  "tristeza": {
+    "sindarin": "naeth",
+    "classe": "substantivo"
+  },
+  "trol": {
+    "sindarin": "Torog",
+    "classe": "substantivo"
+  },
+  "trovão": {
+    "sindarin": "torn",
+    "classe": "substantivo"
+  },
+  "três": {
+    "sindarin": "neled",
+    "classe": "numeral"
+  },
+  "tu": {
+    "sindarin": "le",
+    "classe": "pronome"
+  },
+  "tua": {
+    "sindarin": "lín",
+    "classe": "pronome"
+  },
+  "um": {
+    "sindarin": "er",
+    "classe": "numeral"
+  },
+  "urso": {
+    "sindarin": "brôg",
+    "classe": "substantivo"
+  },
+  "vagar": {
+    "sindarin": "raen",
+    "classe": "verbo"
+  },
+  "vale": {
+    "sindarin": "nan",
+    "classe": "substantivo"
+  },
+  "vau": {
+    "sindarin": "Arossiach",
+    "classe": "nome-próprio"
+  },
+  "velho": {
+    "sindarin": "iam",
+    "classe": "adjetivo"
+  },
+  "veloz": {
+    "sindarin": "celeg",
+    "classe": "adjetivo"
+  },
+  "vencer": {
+    "sindarin": "tûr",
+    "classe": "verbo"
+  },
+  "vento": {
+    "sindarin": "gwaew",
+    "classe": "substantivo"
+  },
+  "ver": {
+    "sindarin": "cen",
+    "classe": "verbo"
+  },
+  "verde": {
+    "sindarin": "calen",
+    "classe": "adjetivo"
+  },
+  "verde-vivo": {
+    "sindarin": "laeg",
+    "classe": "adjetivo"
+  },
+  "verme": {
+    "sindarin": "leweg",
+    "classe": "substantivo"
+  },
+  "vermelho": {
+    "sindarin": "caran",
+    "classe": "adjetivo"
+  },
+  "verso": {
+    "sindarin": "Minlamad Thent",
+    "classe": "nome-próprio"
+  },
+  "viajante": {
+    "sindarin": "randir",
+    "classe": "substantivo"
+  },
+  "vida": {
+    "sindarin": "cuil",
+    "classe": "substantivo"
+  },
+  "vidro": {
+    "sindarin": "heled",
+    "classe": "substantivo"
+  },
+  "vigia": {
+    "sindarin": "Gwahaedir",
+    "classe": "nome-próprio"
+  },
+  "vigiar": {
+    "sindarin": "tir",
+    "classe": "verbo"
+  },
+  "vila": {
+    "sindarin": "gobel",
+    "classe": "substantivo"
+  },
+  "vir": {
+    "sindarin": "tol",
+    "classe": "verbo"
+  },
+  "vitória": {
+    "sindarin": "túr",
+    "classe": "substantivo"
+  },
+  "viva": {
+    "sindarin": "cuil",
+    "classe": "adjetivo"
+  },
+  "viver": {
+    "sindarin": "cuio",
+    "classe": "verbo"
+  },
+  "vivo": {
+    "sindarin": "cuil",
+    "classe": "adjetivo"
+  },
+  "voar": {
+    "sindarin": "fir",
+    "classe": "verbo"
+  },
+  "você": {
+    "sindarin": "le",
+    "classe": "pronome"
+  },
+  "vontade": {
+    "sindarin": "anglennatha i Varanduiniant erin dolothen Ethuil",
+    "classe": "expressão"
+  },
+  "voz": {
+    "sindarin": "lam",
+    "classe": "substantivo"
+  },
+  "vós": {
+    "sindarin": "le",
+    "classe": "pronome"
+  },
+  "água": {
+    "sindarin": "nen",
+    "classe": "substantivo"
+  },
+  "águia": {
+    "sindarin": "thoron",
+    "classe": "substantivo"
+  },
+  "águias": {
+    "sindarin": "theryn",
+    "classe": "substantivo"
+  },
+  "árvore": {
+    "sindarin": "galadh",
+    "classe": "substantivo"
+  },
+  "árvore-de-ouro": {
+    "sindarin": "mallorn",
+    "classe": "substantivo"
+  },
+  "árvores": {
+    "sindarin": "gelaidh",
+    "classe": "substantivo"
+  },
+  "árvores-de-ouro": {
+    "sindarin": "mellyrn",
+    "classe": "substantivo"
+  },
+  "élfico": {
+    "sindarin": "annon edhellen, edro hi ammen",
+    "classe": "expressão"
+  },
+  "ódio": {
+    "sindarin": "dell",
+    "classe": "substantivo"
+  },
+  "último": {
+    "sindarin": "meth",
+    "classe": "substantivo"
+  },
+  "único": {
+    "sindarin": "er",
+    "classe": "adjetivo"
+  }
+}

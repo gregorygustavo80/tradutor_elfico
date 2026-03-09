@@ -1,0 +1,155 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Tradutor Élfico — Português ↔ Sindarin{% endblock %}
+
+{% block content %}
+
+<!-- ░░ HEADER ░░ -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-rune">&#9775;</span>
+      <div class="logo-text">
+        <span class="logo-title">Tradutor Élfico</span>
+        <span class="logo-sub">Português · Sindarin</span>
+      </div>
+    </div>
+    <nav class="header-nav">
+      <a href="#about" class="nav-link" id="nav-about">Sobre</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ░░ HERO ░░ -->
+<main class="main-content">
+  <section class="hero">
+    <p class="hero-tagline">
+      <em>"Elen síla lúmenn' omentielvo"</em>
+      <span class="tagline-pt">Uma estrela brilha na hora do nosso encontro</span>
+    </p>
+  </section>
+
+  <!-- ░░ TRANSLATOR CARD ░░ -->
+  <section class="translator-card" id="translator">
+
+    <!-- Direction Selector -->
+    <div class="direction-selector" id="direction-selector">
+      <button class="dir-btn active" id="btn-pt-sd" data-dir="pt_to_sd" aria-pressed="true">
+        <span class="lang-flag">🇧🇷</span>
+        <span class="lang-name">Português</span>
+      </button>
+
+      <button class="swap-btn" id="swap-btn" aria-label="Inverter idiomas" title="Inverter idiomas">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M7 16V4m0 0L3 8m4-4 4 4"/>
+          <path d="M17 8v12m0 0 4-4m-4 4-4-4"/>
+        </svg>
+      </button>
+
+      <button class="dir-btn" id="btn-sd-pt" data-dir="sd_to_pt" aria-pressed="false">
+        <span class="lang-flag">🧝</span>
+        <span class="lang-name">Sindarin</span>
+      </button>
+    </div>
+
+    <!-- Panels -->
+    <div class="panels">
+
+      <!-- Input Panel -->
+      <div class="panel panel--input">
+        <div class="panel-header">
+          <span class="panel-lang-label" id="input-lang-label">Português</span>
+          <button class="icon-btn clear-btn" id="clear-btn" aria-label="Limpar texto" title="Limpar texto">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+        <textarea
+          id="input-text"
+          class="text-area"
+          placeholder="Digite sua frase aqui..."
+          maxlength="2000"
+          aria-label="Texto de entrada"
+          autofocus
+        ></textarea>
+        <div class="panel-footer">
+          <span class="char-count" id="char-count">0 / 2000</span>
+          <button class="translate-btn" id="translate-btn" aria-label="Traduzir">
+            <span class="btn-text">Traduzir</span>
+            <span class="btn-icon">✦</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Divider -->
+      <div class="panel-divider" aria-hidden="true">
+        <div class="divider-line"></div>
+        <div class="divider-rune">᚛</div>
+        <div class="divider-line"></div>
+      </div>
+
+      <!-- Output Panel -->
+      <div class="panel panel--output">
+        <div class="panel-header">
+          <span class="panel-lang-label" id="output-lang-label">Sindarin</span>
+          <button class="icon-btn copy-btn" id="copy-btn" aria-label="Copiar resultado" title="Copiar resultado">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          </button>
+        </div>
+        <div class="text-area text-area--output" id="output-text" aria-live="polite" aria-label="Resultado da tradução">
+          <span class="output-placeholder">A tradução aparecerá aqui...</span>
+        </div>
+        <div class="panel-footer">
+          <span class="word-info" id="word-info"></span>
+          <span class="copy-feedback" id="copy-feedback">Copiado!</span>
+        </div>
+      </div>
+
+    </div><!-- /panels -->
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading-overlay" aria-hidden="true">
+      <div class="loading-ring"></div>
+    </div>
+
+  </section><!-- /translator-card -->
+
+  <!-- ░░ QUICK EXAMPLES ░░ -->
+  <section class="examples-section">
+    <h2 class="examples-title">Exemplos Rápidos</h2>
+    <div class="examples-grid">
+      <button class="example-chip" data-text="amigo da floresta" data-dir="pt_to_sd">amigo da floresta</button>
+      <button class="example-chip" data-text="eu amo a luz das estrelas" data-dir="pt_to_sd">eu amo a luz das estrelas</button>
+      <button class="example-chip" data-text="o rei dos elfos" data-dir="pt_to_sd">o rei dos elfos</button>
+      <button class="example-chip" data-text="mellon" data-dir="sd_to_pt">mellon</button>
+      <button class="example-chip" data-text="elen ithil" data-dir="sd_to_pt">elen ithil</button>
+      <button class="example-chip" data-text="aran edhil" data-dir="sd_to_pt">aran edhil</button>
+    </div>
+  </section>
+
+  <!-- ░░ ABOUT ░░ -->
+  <section class="about-section" id="about">
+    <div class="about-inner">
+      <h2 class="about-title">Sobre o Sindarin</h2>
+      <p class="about-text">
+        O <strong>Sindarin</strong> é uma das línguas élficas criadas por J.R.R. Tolkien, amplamente falada
+        pelos Elfos Cinzentos da Terra-Média. É a língua das frases icônicas como
+        <em>"Mellon"</em> (amigo) nos portões de Mória, e é baseada no galês.
+      </p>
+      <p class="about-text">
+        Este tradutor usa um léxico cuidadosamente construído e regras gramaticais básicas
+        para oferecer traduções aproximadas entre o Português e o Sindarin.
+        Palavras sem entrada no léxico são marcadas com <code>[colchetes]</code>.
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<!-- ░░ FOOTER ░░ -->
+<footer class="site-footer">
+  <p class="footer-quote"><em>"Not all those who wander are lost."</em> — J.R.R. Tolkien</p>
+  <p class="footer-credits">Construído com ♥ para os amantes da Terra-Média</p>
+</footer>
+
+{% endblock %}
